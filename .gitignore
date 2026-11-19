@@ -1,8 +1,8 @@
 
-# Dependencias
+# Dependencias.
 node_modules/
 
-# Variables de entorno y secretos
+# Variables de entorno y secretos.
 .env
 .env.*
 
